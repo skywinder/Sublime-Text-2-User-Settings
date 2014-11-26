@@ -1,0 +1,12 @@
+# package Control
+Package Control.cache
+Package Control.last-run
+Package Control.system-ca-bundle
+
+sftp_servers/
+GitHub.sublime-settings
+
+#tmp files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
