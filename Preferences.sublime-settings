@@ -1,6 +1,9 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Perv - Color Scheme/Perv Orange.tmTheme",
+    "theme": "Soda Dark.sublime-theme",
+    "soda_folder_icons": true,
+    "soda_classic_tabs": true,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14.0,
