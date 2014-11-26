@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Anypreter",
+		"CTags",
+		"Find Non ASCII Characters",
+		"Git",
+		"HighlightWords",
+		"Javascript Beautify",
+		"Package Control",
+		"Pretty JSON",
+		"TrailingSpaces",
+		"Unicode Character Highlighter",
+		"UnicodeMath"
+	]
+}
