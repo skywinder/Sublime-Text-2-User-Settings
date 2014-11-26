@@ -1,12 +1,7 @@
-# package Control
-Package Control.cache
+# package Control - recomended ignore files from here: https://sublime.wbond.net/docs/syncing
 Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
 Package Control.system-ca-bundle
-
-sftp_servers/
-GitHub.sublime-settings
-
-#tmp files
-.DS_Store
-*.sublime-project
-*.sublime-workspace
+Package Control.cache/
+Package Control.ca-certs/
