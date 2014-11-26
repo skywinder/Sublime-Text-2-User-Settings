@@ -5,8 +5,23 @@
 		"Vintage"
 	],
 	"ruby_binary_path": "/usr/bin/ruby",
+
     "ensure_newline_at_eof_on_save": true,
     "trim_trailing_white_space_on_save": true,
+    "trim_automatic_white_space": true,
     "translate_tabs_to_spaces": true,
-    "tab_size": 4
+    "tab_size": 4,
+
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "shift_tab_unindent": true,
+    "sublimelinter": true,
+    "sublimelinter_popup_errors_on_save": true,
+    "bold_folder_labels": true,
+    "word_wrap": false
 }
