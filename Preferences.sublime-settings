@@ -1,10 +1,10 @@
 {
-	"font_size": 14.0,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"ruby_binary_path": "/usr/bin/ruby",
+    "font_size": 14.0,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "ruby_binary_path": "/usr/bin/ruby",
 
     "ensure_newline_at_eof_on_save": true,
     "trim_trailing_white_space_on_save": true,
