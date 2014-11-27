@@ -2,11 +2,12 @@
   "bold_folder_labels": true,
   "caret_style": "smooth",
   "color_scheme": "Packages/Perv - Color Scheme/Perv Orange.tmTheme",
-  "theme": "Soda Dark.sublime-theme",
+
   "soda_folder_icons": true,
   "soda_classic_tabs": true,
   "draw_minimap_border": false,
   "ensure_newline_at_eof_on_save": true,
+    "theme": "Soda Dark.sublime-theme",
   "font_size": 14.0,
   "highlight_modified_tabs": true,
   "highlight_line": true,
@@ -25,5 +26,6 @@
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": true,
+  "match_brackets_angle": true,
   "word_wrap": false
 }
